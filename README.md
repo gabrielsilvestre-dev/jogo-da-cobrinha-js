@@ -1,3 +1,6 @@
+🔗 **Demo online:**  
+[https://gabriel-silvestre.github.io/jogo-da-cobrinha-js/](https://gabrielsilvestre-dev.github.io/jogo-da-cobrinha-js/)
+
 # 🐍 Jogo da Cobrinha (Snake Game)
 
 ## 📌 Descrição
@@ -41,3 +44,4 @@ Possíveis melhorias futuras:
 ## 👤 Autor
 
 Gabriel Silvestre
+
